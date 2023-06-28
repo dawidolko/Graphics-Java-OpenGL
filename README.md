@@ -1,31 +1,30 @@
 # GiKCzK-renderer-starter
 
-## **Opis:**
-Grafika-Komunikacja-Człowiek-Komputer to repozytorium poświęcone programowaniu i pracom związanym z grafiką komputerową oraz interakcją człowiek-komputer. Znajdziesz tutaj przykładowe projekty, narzędzia i materiały edukacyjne związane z tworzeniem wizualnych interfejsów i aplikacji komputerowych.
+## **Description:**
+Graphics-Communication-Human-Computer is a repository dedicated to programming and work related to computer graphics and human-computer interaction. Here you will find example projects, tools and educational materials related to creating visual interfaces and computer applications.
 
-## **Struktura Repozytorium:**
-/Projekty: Ten folder zawiera różne projekty, w których skupiamy się na programowaniu grafiki komputerowej oraz tworzeniu interaktywnych interfejsów człowiek-komputer. Każdy projekt posiada swój własny folder z opisem, kodem źródłowym i plikami projektowymi.
+## **Repository Structure:**
+/Projects: This folder contains various projects where we focus on computer graphics programming and creating interactive human-computer interfaces. Each project has its own folder with description, source code and project files.
 
-/Narzędzia: W tym folderze znajdują się narzędzia programistyczne, biblioteki graficzne oraz oprogramowanie służące do projektowania interfejsów i aplikacji.
+/Tools: This folder contains development tools, graphics libraries, and software for designing interfaces and applications.
 
-/Materiały: Tutaj znajdziesz materiały edukacyjne, takie jak tutoriale, artykuły i dokumentacja, które pomogą Ci w nauce i zrozumieniu grafiki komputerowej oraz interakcji człowiek-komputer.
+/Resources: Here you will find educational resources such as tutorials, articles, and documentation to help you learn and understand computer graphics and human-computer interaction.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/GiKCzK-renderer-starter.git
 ```
 
-Przeglądaj dostępne projekty, narzędzia i materiały w odpowiednich folderach.
+Browse available projects, tools and materials in their respective folders.
 
-Wykorzystaj dostępne zasoby i narzędzia, aby tworzyć wizualne interfejsy i aplikacje komputerowe oraz projektować interakcje człowiek-komputer.
+Use available resources and tools to create visual interfaces and computer applications and design human-computer interactions.
 
-## **Wymagania systemowe**
-Aby rozpocząć pracę z grafiką komputerową i interakcją człowiek-komputer, będziesz potrzebować odpowiednich narzędzi programistycznych, bibliotek graficznych oraz oprogramowania do projektowania interfejsów. Upewnij się, że masz zainstalowane niezbędne oprogramowanie zgodnie z preferencjami i potrzebami projektu.
+## **System requirements**
+To get started with computer graphics and human-computer interaction, you'll need the right development tools, graphics libraries, and interface design software. Make sure you have the necessary software installed according to your project preferences and needs.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z grafiką komputerową i interakcją człowiek-komputer. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests, or share your own projects related to computer graphics and human-computer interaction. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
+If you have any questions or need help, please contact me via email or GitHub.
