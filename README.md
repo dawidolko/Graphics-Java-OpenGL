@@ -4,11 +4,8 @@
 Graphics-Communication-Human-Computer is a repository dedicated to programming and work related to computer graphics and human-computer interaction. Here you will find example projects, tools and educational materials related to creating visual interfaces and computer applications.
 
 ## **Repository Structure:**
-/Projects: This folder contains various projects where we focus on computer graphics programming and creating interactive human-computer interfaces. Each project has its own folder with description, source code and project files.
 
-/Tools: This folder contains development tools, graphics libraries, and software for designing interfaces and applications.
-
-/Resources: Here you will find educational resources such as tutorials, articles, and documentation to help you learn and understand computer graphics and human-computer interaction.
+/Labs: This folder contains development tools, graphics libraries, and software for designing interfaces and applications.
 
 ## **How ​​to start:**
 
