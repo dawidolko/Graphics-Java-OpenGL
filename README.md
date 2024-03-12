@@ -1,4 +1,4 @@
-# GiKCzK-renderer-starter
+# GiKCzK - Graphics-Java-OpenML
 
 ## **Description:**
 Graphics-Communication-Human-Computer is a repository dedicated to programming and work related to computer graphics and human-computer interaction. Here you will find example projects, tools and educational materials related to creating visual interfaces and computer applications.
