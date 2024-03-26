@@ -6,6 +6,10 @@ public class App {
 
     String version = "0.02";
 
+    // nie w src tylko w lab2
+
+    // java -cp src App renderer.png 640 480 LINE_NAIVE
+
     public static void main(String[] args) {
         if (args.length < 4) {
             System.out.println("Usage: java App <path to output file> <width> <height> <line algorithm>");
@@ -26,7 +30,7 @@ public class App {
     }
 //    public static void main(String[] args) {
 //        // Domyślne wartości
-//        String defaultPath = "C:\\Users\\poczt\\Desktop\\OneDrive - Uniwersytet Rzeszowski\\Studia Dawida\\.STUDIA\\IV SEMESTR\\Grafika i komunukacja człowiek-komputer (GiKCz-K)\\LABY\\Lab2\\renderer.png";
+//        String defaultPath = "C:\\Users\\poczt\\Desktop\\OneDrive - Uniwersytet Rzeszowski\\Studia Dawida\\.STUDIA\\IV SEMESTR\\Grafika i komunukacja człowiek-komputer (GiKCz-K)\\LABY\\Lab2\\img\\rendered.png";
 //        int defaultWidth = 640;
 //        int defaultHeight = 480;
 //        String defaultAlgo = "LINE_NAIVE";
