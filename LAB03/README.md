@@ -7,13 +7,13 @@ Celem laboratorium jest implementacja algorytmu wypełniania trójkątów za pom
 
 Z wykładu wiemy, że położenie punktu względem wierzchołków trójkąta można opisać za pomocą współrzędnych barycentrycznych. Wystarczy traktować jego boki jako wektory bazowe specjalnego układu współrzędnych, a jeden z wierzchołków jako początek tego układu:
 
-![Alt text](./img/3_1.jpg)
+![Alt text](img/photo1.png)
 
 Porzucimy sobie tutaj znane z wykładu oznaczenia w postaci liter greckego alfabetu i wprowadzimy zamiast tego ```v``` i ```u```, które można wygodnie użyć jako nazwa zmiennej. Z rysunku widzimy, że położenie punktu P można opisać za pomocą liniowej kombinacji wektorów AB i AC względem punktu A.
 
 Ponieważ mamy tutaj wektory, rozpiszmy to za pomocą poszczególnych ich elementów i notacji z nawiasami kwadratowymi:
 
-![Alt text](./img/3_2.jpg)
+![Alt text](img/photo2.png)
 
 Mamy dwie niewiadome i dwa równania. Co więcej, jeśli iloczyn tych wektorów w poszczególnych równaniach ma wynosić 0, to z algebry wiemy, że muszą być one prostopadłe do siebie. Zwróćmy uwagę też na pewien fakt: szukamy współrzędnych ```u``` i ```v``` wektora, takch, żeby oba pozostałe wektory były do niego prostopadłe. Możemy skorzystać z definicji iloczynu wektorowego.
 
