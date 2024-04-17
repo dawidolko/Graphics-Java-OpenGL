@@ -8,9 +8,13 @@ public class App {
 
     public static void main(String[] args) throws IOException {
 
+        // INSTRUKCJA:
+        // UTWÓRZ PLIKI .CLASS 'javac src/*.java'
+        // WYWOŁANIE PROGRAMU POD KOMPILACJE 'java -cp src App triangle.png 640 480 LINE_NAIVE'
+
         String defaultFilename = "output.png";
-        int defaultWidth = 800;
-        int defaultHeight = 600;
+        int defaultWidth = 1000;
+        int defaultHeight = 1000;
         String filename = args.length > 0 ? args[0] : defaultFilename;
         int width = args.length > 1 ? Integer.parseInt(args[1]) : defaultWidth;
         int height = args.length > 2 ? Integer.parseInt(args[2]) : defaultHeight;
@@ -21,15 +25,19 @@ public class App {
         FlatShadingRenderer mainRenderer = new FlatShadingRenderer(filename, width, height);
         mainRenderer.render(deerModel);
 
-//        var TRANSLATE_VECTOR = new Vec3f(-300, 100, 500);
-//
-//        TRANSLATE_VECTOR.x /= mainRenderer.w;
-//        TRANSLATE_VECTOR.y /= mainRenderer.h;
-//        TRANSLATE_VECTOR.z /= mainRenderer.maxDepth;
-//
-//        deerModel.translate(TRANSLATE_VECTOR);
-//
-//        mainRenderer.render(deerModel);
+        var TRANSLATE_VECTOR = new Vec3f(-300, 100, 500);
+
+        // JAK ZAKOMENTUJE ODTĄD ---
+
+        TRANSLATE_VECTOR.x /= mainRenderer.w;
+        TRANSLATE_VECTOR.y /= mainRenderer.h;
+        TRANSLATE_VECTOR.z /= mainRenderer.maxDepth;
+
+        deerModel.translate(TRANSLATE_VECTOR);
+
+        mainRenderer.render(deerModel);
+
+        // DOTAD TO WYGENERUJE SIE 1 JELEŃ, inaczej bedzie 2 ---
 
         try {
             mainRenderer.save();

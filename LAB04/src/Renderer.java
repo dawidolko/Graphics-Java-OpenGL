@@ -190,21 +190,21 @@ public class  Renderer {
         if (C.y > maxY) maxY = C.y;
         if (C.y < minY) minY = C.y;
 
-        for (int i=(int)minX; i<maxX; i++) {
-            for (int j = (int) minY; j < maxY; j++) {
+        for (int i = (int)minX; i <= maxX; i++) {
+            for (int j = (int)minY; j <= maxY; j++) {
+                if (i < 0 || i >= w || j < 0 || j >= h) {
+                    continue; // Pomiń próbę rysowania poza granicami obrazu
+                }
                 Vec2f P = new Vec2f(i, j);
-
                 Vec3f vector = barycentric(A, B, C, P);
 
                 if (vector.x >= 0 && vector.y >= 0 && vector.z >= 0 && vector.x <= 1 && vector.y <= 1 && vector.z <= 1) {
-
                     double zbuffor = A.z * vector.x + B.z * vector.y + C.z * vector.z;
                     if (zbuffor < zbufforTable[i][j]) {
                         zbufforTable[i][j] = zbuffor;
                         render.setRGB(i, j, color);
                     }
                 }
-
             }
         }
     }
