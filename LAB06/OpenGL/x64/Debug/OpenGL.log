@@ -1,0 +1,3 @@
+﻿  main.cpp
+LINK : warning LNK4098: domyślna biblioteka "MSVCRT" powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
+  OpenGL.vcxproj -> C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\IV SEMESTR\Grafika i komunukacja człowiek-komputer (GiKCz-K)\LAB06\OpenGL\x64\Debug\OpenGL.exe

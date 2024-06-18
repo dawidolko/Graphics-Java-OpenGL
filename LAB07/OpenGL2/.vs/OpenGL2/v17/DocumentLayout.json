@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B71F55A1-47A7-47C3-A76E-AA2CAA8F10BD}|OpenGL2\\OpenGL2.vcxproj|C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B71F55A1-47A7-47C3-A76E-AA2CAA8F10BD}|OpenGL2\\OpenGL2.vcxproj|solutionrelative:OpenGL2\\shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71F55A1-47A7-47C3-A76E-AA2CAA8F10BD}|OpenGL2\\OpenGL2.vcxproj|C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B71F55A1-47A7-47C3-A76E-AA2CAA8F10BD}|OpenGL2\\OpenGL2.vcxproj|solutionrelative:OpenGL2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71F55A1-47A7-47C3-A76E-AA2CAA8F10BD}|OpenGL2\\OpenGL2.vcxproj|C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B71F55A1-47A7-47C3-A76E-AA2CAA8F10BD}|OpenGL2\\OpenGL2.vcxproj|solutionrelative:OpenGL2\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71F55A1-47A7-47C3-A76E-AA2CAA8F10BD}|OpenGL2\\OpenGL2.vcxproj|C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B71F55A1-47A7-47C3-A76E-AA2CAA8F10BD}|OpenGL2\\OpenGL2.vcxproj|solutionrelative:OpenGL2\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shader.cpp",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\shader.cpp",
+              "RelativeDocumentMoniker": "OpenGL2\\shader.cpp",
+              "ToolTip": "C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\shader.cpp",
+              "RelativeToolTip": "OpenGL2\\shader.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T07:36:47.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shader.h",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\Shader.h",
+              "RelativeDocumentMoniker": "OpenGL2\\Shader.h",
+              "ToolTip": "C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\Shader.h",
+              "RelativeToolTip": "OpenGL2\\Shader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T07:35:39.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "glad.c",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\glad.c",
+              "RelativeDocumentMoniker": "OpenGL2\\glad.c",
+              "ToolTip": "C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\glad.c",
+              "RelativeToolTip": "OpenGL2\\glad.c",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-12T07:28:54.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\main.cpp",
+              "RelativeDocumentMoniker": "OpenGL2\\main.cpp",
+              "ToolTip": "C:\\Users\\Student\\Documents\\grafika\\LAB07\\OpenGL2\\OpenGL2\\main.cpp",
+              "RelativeToolTip": "OpenGL2\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T06:47:21.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

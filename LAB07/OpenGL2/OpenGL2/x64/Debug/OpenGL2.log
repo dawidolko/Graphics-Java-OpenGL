@@ -1,0 +1,5 @@
+﻿  main.cpp
+  shader.cpp
+  Generowanie kodu...
+LINK : warning LNK4098: domyślna biblioteka "MSVCRT" powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
+  OpenGL2.vcxproj -> C:\Users\Student\Documents\grafika\LAB07\OpenGL2\x64\Debug\OpenGL2.exe
